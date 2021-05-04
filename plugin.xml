@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Blur-Effekte für Einkaufswelten</label>
+    <label lang="en">Blur effects for emotion elements</label>
+
+    <version>1.1.3</version>
+    <copyright>Copyright (c) 2021, Netzhirsch GbR</copyright>
+    <license>proprietary</license>
+    <link>https://www.netzhirsch.de</link>
+    <author>Netzhirsch GbR</author>
+    <compatibility minVersion="5.2.0" />
+    
+    <description lang="de">Mit diesem Plugin können Sie Einkaufswelten-Elemente mit Blur-Effekten ganz einfach und ohne Vorkenntnisse erstellen. Über das Blur-Banner lassen sich Überschrift, Beschreibungtext und eine Verlinkung einfügen. Position, Größe und Textausrichtung lassen sich schnell verändern.</description>
+    <description lang="en">With this plugin you can create emotion elements with a blur effects without any previous knowledge. Above the blur banner you can insert a headline, text and a hyperlink. Position, size and textalign are quickly changable.</description>
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erstveröffentlichung des Plugins.</changes>
+        <changes lang="en">Initial Release of the plugin.</changes>
+    </changelog>
+
+    <changelog version="1.1.0">
+        <changes lang="de">Kompatibilität zu Shopware 5.5.0 hergestellt: ionCube-Verschlüsselung wurde entfernt.</changes>
+        <changes lang="en">Compatibility with Shopware 5.5.0 made: ionCube encryption has been removed.</changes>
+    </changelog>
+
+    <changelog version="1.1.1">
+        <changes lang="de">Man kann nun optional Artikel auswählen, auf die man verlinken möchte.</changes>
+        <changes lang="en">You can now optionally select items that you want to link to.</changes>
+    </changelog>
+
+    <changelog version="1.1.2">
+        <changes lang="de">Optimierung der Stylesheets, um seltene Darstellungs-Probleme zu beheben.</changes>
+        <changes lang="en">Optimization of the stylesheets, to solve rare display problems.</changes>
+    </changelog>
+
+    <changelog version="1.1.3">
+        <changes lang="de">Kompatibilität zu Shopware 5.7 hergestellt.</changes>
+        <changes>Compatibility with Shopware 5.7 made.</changes>
+    </changelog>
+</plugin>
